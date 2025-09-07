@@ -23,10 +23,10 @@ jobs:
         input: ''
         expected-output: |2-
            Rectangle Properties:
-                    Length = 7.2
-                    Width = 1.3
-                    Area = 9.36
-                    Perimeter = 17
+           Length = 7.2
+           Width = 1.3
+          Area = 9.36
+          Perimeter = 17
         comparison-method: contains
         timeout: 10
     - name: Autograding Reporter
